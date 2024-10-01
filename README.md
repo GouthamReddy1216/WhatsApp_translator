@@ -31,7 +31,7 @@ A Chrome extension that translates messages on [web.whatsapp.com](https://web.wh
 
 5. Start the Translator API (it will run on `localhost:3000`). Ensure nothing else is running on port 3000:
    ```bash
-   npm start
+   node translate_server.js
    ```
 
 ## Loading the Extension in Chrome
