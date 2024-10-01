@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "WhatsApp Translator",
+    "version": "1.0",
+    "action": {
+      "default_popup": "index.html",
+      "default_title": "Translate WhatsApp Messages"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+  }
+  
