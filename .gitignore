@@ -1,7 +1,10 @@
 /app
 /extension/api_tester.js
 /extension/content.js
+/extension/contentscript.js
 /extension/newtransform.js
+/extension/persist.js
 /extension/translate.js
 /server/node_modules
 /server/temp.js
+
