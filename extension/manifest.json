@@ -6,18 +6,6 @@
       "default_popup": "index.html",
       "default_title": "Translate WhatsApp Messages"
     },
-    "content_scripts": 
-    [
-      {
-        "js": [
-          "contentscript.js"
-        ],
-        "matches": [
-          "https://*.whatsapp.com/"
-        ]
-      }
-    ]
-    ,
     "permissions": [
         "activeTab",
         "scripting",
